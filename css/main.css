@@ -291,8 +291,7 @@ footer {
   display: flex;
   justify-content: space-evenly;
   align-items: flex-start;
-  margin-top: 10%;
-  margin-bottom: 10%;
+  padding: 10%;
 }
 
 .footer-div {
